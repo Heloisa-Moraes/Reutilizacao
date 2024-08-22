@@ -1,0 +1,4 @@
+para fazer o comit 
+
+git config --global user.name Heloisa-Moraes
+git config --global user.email helomoraes2009@hotmail.com 
